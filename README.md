@@ -1,0 +1,1 @@
+This code supports the article "Artificial Intelligence Diagnosis of Patent Foramen Ovale in Contrast Transthoracic Echocardiography" . The file unet_for_pfo is used to segment the left heart chamber, and resnet_for_pfo is used to realize the diagnosis of PFO.
